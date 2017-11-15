@@ -8,3 +8,5 @@ build/*
 
 # Ignore log files (like npm-debug.log)
 *.log
+
+env.sh
